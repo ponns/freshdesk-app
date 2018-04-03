@@ -1,14 +1,20 @@
 # FreshDesk - Jamf|PRO
 
-## Desccription
+## Description
 
 FreshDesk market place app to get the Computer / Mobile Device details from Jamf|PRO.
 
-Agents needs to be provide the Jamf|PRO domain(URL), User name & Password while installing the app.
+Agents need to provide the Jamf|PRO domain(URL, Example: https://tryitout.jamfcloud.com), User name & Password while installing the app.
 
 Once installed, The application can be accessed by clicking the Jamf|PRO icon in Ticket Side bar (Right side of the ticket details page).
 
+![Freshdesk Tickets](page.png)
+
 Agents can get the details from Jamf|PRO by providing the serial number.
+
+![Freshdesk Tickets](image1.png) ![Freshdesk Tickets](image2.png)
+
+![Freshdesk Tickets](image3.png) ![Freshdesk Tickets](image4.png)2
 
 ### Folder structure explained
 
