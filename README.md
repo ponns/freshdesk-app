@@ -10,13 +10,14 @@ Once installed, The application can be accessed by clicking the Jamf|PRO icon in
 
 ![Freshdesk Tickets](page.png)
 
-Agents can get the details from Jamf|PRO by providing the serial number.
+Agents can get the details from Jamf|PRO by providing the serial number. Following are the sample scripts.
 
 ![Freshdesk Tickets](image1.png) ![Freshdesk Tickets](image2.png)
 
 ![Freshdesk Tickets](image3.png) ![Freshdesk Tickets](image4.png)
 
-Note: Loading Icon will be displayed while search is in progress...
+Note: Loading Icon will be displayed while search is in progress... 
+
 ![Freshdesk Tickets](image5.png)
 
 ### Folder structure explained
